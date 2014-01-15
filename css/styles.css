@@ -1,0 +1,25 @@
+/* Your Website Styles */
+h1, h3 {
+	font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+p {
+	font-family: 'Alef', sans-serif;
+	line-height: 150%;
+	text-indent: 1.5em;
+
+}
+
+h1:hover {
+	text-decoration: underline;
+}
+
+
+h3:hover {
+	text-decoration: underline;
+}
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
